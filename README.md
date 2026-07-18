@@ -1,7 +1,7 @@
 ## Global-Superstore-Data-Analysis
 The Global Superstore wants to create an annual sales report for historical transactions to help the executive team optimize supply chain logistics and maximize revenue strategies for upcoming quarters.
-## Project ObjectiveThe 
-Global Superstore wants to create an annual sales report for historical transactions to help the executive team optimize supply chain logistics and maximize revenue strategies for upcoming quarters. 
+## Project Objective
+The Global Superstore wants to create an annual sales report for historical transactions to help the executive team optimize supply chain logistics and maximize revenue strategies for upcoming quarters. 
 ## Dataset Used
 <a href="https://github.com/Ranu121-eng/Global-Superstore-Data-Analysis/blob/main/global_superstore_2016%20-%20Copy.xlsx">Global Superstore
 ## Questions (KPIs):
